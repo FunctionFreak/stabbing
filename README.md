@@ -1,2 +1,2 @@
 # stabbing
-yolov5 model to detect stabbing 
+yolov9 model to detect stabbing 
