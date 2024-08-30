@@ -11,7 +11,7 @@ latitude = 51.44448483224641
 longitude = -0.4036596372128636
 
 # Google Maps API key
-api_key = "AIzaSyCNeB1KRDRj60X-KRzgrDa7smrbmWnsFNU"
+api_key = ""
 
 # YOLOv8 model
 model = YOLO("C:/Users/yadav/Desktop/knifedetection/best.pt")
